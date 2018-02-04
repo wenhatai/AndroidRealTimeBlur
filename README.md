@@ -1,0 +1,3 @@
+# AndroidRealTime
+
+![gif](AndroidRealBlur.gif)
